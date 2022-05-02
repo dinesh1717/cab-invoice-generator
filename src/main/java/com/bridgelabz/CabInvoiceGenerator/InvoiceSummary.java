@@ -43,4 +43,3 @@ public class InvoiceSummary {
         return Objects.hash(numberOfRides, totalFare, avgFare);
     }
 }
-
